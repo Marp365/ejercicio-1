@@ -1,3 +1,5 @@
+Diseña un programa que lea las calificaciones de 30 estudiantes, las almacene en un arreglo y calcule el promedio general. Además, muestra cuántos estudiantes están por encima del promedio.
+
 #include <iostream>
 using namespace std;
 
@@ -24,3 +26,5 @@ int main() {
 
     return 0;
 }
+
+
